@@ -130,7 +130,7 @@ function showQuetions(index){
         if (questions[index].immg=="img8")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrn.github.io//ITICBTExams//Electrician//SemI//ModuleI//8.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//Electrician//Images//8.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
@@ -140,7 +140,7 @@ function showQuetions(index){
      if (questions[index].immg=="img16")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrn.github.io//ITICBTExams//Electrician//SemI//ModuleI//16.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//Electrician//Images//16.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
@@ -150,7 +150,7 @@ function showQuetions(index){
      if (questions[index].immg=="img20")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrn.github.io//ITICBTExams//Electrician//SemI//ModuleI//20.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//Electrician//Images//20.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
@@ -160,7 +160,7 @@ function showQuetions(index){
      if (questions[index].immg=="img22")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrn.github.io//ITICBTExams//Electrician//SemI//ModuleI//22.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//Electrician//Images//22.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
@@ -170,7 +170,7 @@ function showQuetions(index){
      if (questions[index].immg=="img23")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrn.github.io//ITICBTExams//Electrician//SemI//ModuleI//23.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//Electrician//Images//23.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
@@ -180,7 +180,7 @@ function showQuetions(index){
      if (questions[index].immg=="img26")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrn.github.io//ITICBTExams//Electrician//SemI//ModuleI//26.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//Electrician//Images//26.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
