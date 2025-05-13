@@ -119,7 +119,7 @@ function showQuetions(index){
     if (questions[index].immg=="img1")
         {
             var x = document.createElement("IMG");
-    x.setAttribute("src", "https://github.com/vesrntechnologies//Electrician//SemI/ModuleI//1.png");
+    x.setAttribute("src", "https://github.com/vesrntechnologies//Electrician//Images//1.png");
     //x.setAttribute("width", "304");
    // x.setAttribute("height", "228");
     x.setAttribute("alt", "Image Can not Display");
